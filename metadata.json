@@ -1,0 +1,7 @@
+{
+  "name": "A-Mesob Assistances Pro",
+  "description": "An advanced, high-efficiency RAG assistant for professional document analysis and conversational intelligence powered by Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
